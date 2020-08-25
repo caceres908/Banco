@@ -10,4 +10,9 @@ public class Cliente {
         this.tipoCuenta = tipoCuenta;
         this.documento = documento;
     }
+
+    public double retirar(double cantidad){
+        return 0;
+    }
+
 }
